@@ -18,6 +18,9 @@ lib/
 lib64/
 parts/
 sdist/
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
 var/
 wheels/
 share/python-wheels/
